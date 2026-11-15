@@ -40,5 +40,9 @@ A practical PCB design project developed using Altium Designer.
 - PCB Layout
 - 3D PCB Visualization
 - Altium Designer Source Files
+- 
+### PCB 3D Preview
+
+![Automotive USB Charger PCB - 3D Render](https://raw.githubusercontent.com/AliAsadiDesign/automotive-USB-charger/main/images/01_pcb_3d_render.png)
 
 [View Project on GitHub](https://github.com/AliAsadiDesign/automotive-USB-charger)
