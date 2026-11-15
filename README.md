@@ -1,16 +1,31 @@
-## Hi there 👋
+# DIODE Engineering Group
 
-<!--
-**AliAsadiDesign/AliAsadiDesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Engineering Ideas into Reality
 
-Here are some ideas to get you started:
+Welcome to DIODE Engineering Group.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Founded by **Ali Asadi**, DIODE is an engineering brand with a multidisciplinary vision, aiming to develop practical and innovative engineering solutions.
+
+## Our Vision
+
+To build an engineering group that brings together different technical disciplines to transform ideas into real-world solutions.
+
+## Engineering Fields
+
+- **Electronics Engineering:** Schematic Design and PCB Development
+- **Mechanical Engineering:** CAD Design and 3D Modeling
+- **Embedded Systems:** Microcontroller-Based Projects
+- **Research & Development:** Engineering Innovation and Prototyping
+
+## Founder
+
+**Ali Asadi**  
+Founder of DIODE Engineering Group
+
+## Portfolio
+
+Explore our engineering projects and technical developments through our GitHub repositories.
+
+---
+
+*DIODE Engineering Group — Engineering Ideas into Reality.*
