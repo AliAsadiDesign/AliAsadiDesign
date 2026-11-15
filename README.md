@@ -29,3 +29,16 @@ Explore our engineering projects and technical developments through our GitHub r
 ---
 
 *DIODE Engineering Group — Engineering Ideas into Reality.*
+
+## Featured Engineering Project
+
+### Automotive USB Charger — 12V to 5V DC-DC Converter
+
+A practical PCB design project developed using Altium Designer.
+
+- Schematic Design
+- PCB Layout
+- 3D PCB Visualization
+- Altium Designer Source Files
+
+[View Project on GitHub](https://github.com/AliAsadiDesign/automotive-USB-charger)
